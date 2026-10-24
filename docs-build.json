@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "documentation-preview",
+  "build_id": "docs-321f1d991ca5",
+  "source_repository": "slawrensen/hwinfo-streamdeck",
+  "source_commit": "321f1d991ca57e427588092d0b847ef1e21091b2",
+  "preview_previous_commit": "ab75216427698c57df3ed7fb3a81e7c20f45675c",
+  "preview_repository": "slawrensen/hwinfo-streamdeck-preview",
+  "preview_url": "https://docs.slawrensen.com/hwinfo-streamdeck-preview/",
+  "source_plugin_version": "1.7.1"
+}

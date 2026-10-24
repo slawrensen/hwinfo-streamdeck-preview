@@ -2,7 +2,7 @@
 	"command": "node scripts/capture-pi-reading-colors.mjs",
 	"kind": "Real property-inspector screenshot",
 	"note": "The shipped panel files, served byte for byte by a mock Stream Deck harness that adds only a page background style and the registration bootstrap the app would perform; cropped to the Display section. The external title bar reports the running page's build marker. Live HWiNFO Shared Memory readings. No installed app changes, hardware screenshot claim or sample readings.",
-	"captureTime": "2026-10-24T05:37:56.639Z",
+	"captureTime": "2026-10-24T06:45:08.020Z",
 	"panelSha256": "daf1c48aca96624d5a3804b225b83ef514716e65d5622ab152a9140d5398530a",
 	"file": "pi-dial-reading-colors-1.7.png",
 	"sha256": "bd8ebc066b1c6f8e7fd88bc28229df07b052cad9889a982ae98d47c044c89535",
@@ -75,7 +75,7 @@
 			"textMode": "theme",
 			"source": "shared-memory"
 		},
-		"liveDialSha256": "317708860a293e2bd63269b8d17e4e743467e1c228f09d0ace88c0e3d21fd5d2"
+		"liveDialSha256": "796a2667657c3a070b795514edf9f08be448437dad312bb963fa08835fe1baab"
 	},
 	"sourceSha256": {
 		"com.lawrensen.hwinfo.sdPlugin/ui/sensor-dial.html": "02c78658f555a7425682ffea28ab3c5b0d47c459c889d8fbe0630cd725fe827b",
