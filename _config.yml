@@ -20,7 +20,7 @@ plugins:
 
 defaults:
   - scope:
-      path: ""
+      path: "*.md"
     values:
       layout: default
 
@@ -38,6 +38,7 @@ enable_copy_code_button: true
 
 # The website preview is independent of the released plugin version.
 docs_preview: true
+docs_legacy: true
 plugin_release:
   version: 1.7.1
   package_version: 1.7.1.0
@@ -70,6 +71,6 @@ gh_edit_view_mode: tree
 footer_content: >-
   MIT licensed. No ads, no telemetry. Not affiliated with REALiX/HWiNFO or
   Elgato. &copy; Stephen Lawrensen.
-docs_source_sha: 659d1fe8b99724310f8676dd52408786a292ab29
-docs_preview_previous_sha: 7969a31a478f7aa5e85c6c62ab9c3dcaebbfd21c
-docs_build_id: docs-659d1fe8b997
+docs_source_sha: 8531e84bc59554b1bf5809b6f06ae2776e35e644
+docs_preview_previous_sha: a420a4c2d1fef40c8b6354544926ce0e1570bdf1
+docs_build_id: docs-8531e84bc595
