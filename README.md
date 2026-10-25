@@ -1,13 +1,13 @@
 # Documentation preview
 
-Complete documentation staged from [15942ff69a9d03081c20e1029a5d4cd643a2cf95](https://github.com/slawrensen/hwinfo-streamdeck/commit/15942ff69a9d03081c20e1029a5d4cd643a2cf95).
+Complete documentation staged from [4e9bebef2cae81cbf4f1d3798ecb86b2cb8fa1dc](https://github.com/slawrensen/hwinfo-streamdeck/commit/4e9bebef2cae81cbf4f1d3798ecb86b2cb8fa1dc).
 
 Preview: https://docs.slawrensen.com/hwinfo-streamdeck-preview/
 
 Production: https://docs.slawrensen.com/hwinfo-streamdeck/
 
-Build ID: docs-15942ff69a9d
+Build ID: docs-4e9bebef2cae
 
-Previous preview commit: 4c65158f4275371a4ed8dcc8ace7ddda1be78ebc
+Previous preview commit: d2a07d59999b22e49bd867b52768fdf679a861d2
 
 Source package version: 1.7.1. The website preview identity is separate from plugin release status; verify releases before making a stable-version claim.
