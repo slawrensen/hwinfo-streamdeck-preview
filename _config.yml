@@ -40,13 +40,13 @@ enable_copy_code_button: true
 docs_preview: true
 docs_legacy: true
 plugin_release:
-  version: 1.7.1
-  package_version: 1.7.1.0
-  tag: v1.7.1
-  download: https://github.com/slawrensen/hwinfo-streamdeck/releases/download/v1.7.1/com.lawrensen.hwinfo.streamDeckPlugin
-  notes: https://github.com/slawrensen/hwinfo-streamdeck/releases/tag/v1.7.1
-  marketplace_version: 1.7.0.0
-  checked: 2026-10-24
+  version: 1.8.0
+  package_version: 1.8.0.0
+  tag: v1.8.0
+  download: https://github.com/slawrensen/hwinfo-streamdeck/releases/download/v1.8.0/com.lawrensen.hwinfo.streamDeckPlugin
+  notes: https://github.com/slawrensen/hwinfo-streamdeck/releases/tag/v1.8.0
+  marketplace_version: 1.7.1.0
+  checked: 2026-11-13
 
 # Internal release runbooks: kept next to the docs, never published.
 exclude:
@@ -71,6 +71,6 @@ gh_edit_view_mode: tree
 footer_content: >-
   MIT licensed. No ads, no telemetry. Not affiliated with REALiX/HWiNFO or
   Elgato. &copy; Stephen Lawrensen.
-docs_source_sha: 76e253def16644a8ff799240e0ea1fe2bee42c1d
-docs_preview_previous_sha: a250df3ecd076027147766799baa177d1dff3ff4
-docs_build_id: docs-76e253def166
+docs_source_sha: 80de4bbc259e9f27ceeec134387de17357be3ff0
+docs_preview_previous_sha: f8228111a332bebba267c1f17b6ac1847bf06b0e
+docs_build_id: docs-80de4bbc259e
