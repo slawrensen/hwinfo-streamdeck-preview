@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "kind": "documentation-preview",
-  "build_id": "docs-39376433a5d3",
+  "build_id": "docs-843d67a03288",
   "source_repository": "slawrensen/hwinfo-streamdeck",
-  "source_commit": "39376433a5d3fda2b29408fc0f874ba624bfbb9f",
-  "preview_previous_commit": "fd593fa1948db8cf141261697859db2c3c2951c8",
+  "source_commit": "843d67a032881664c1780bce014fb1ed30db27cc",
+  "preview_previous_commit": "284aa02bd5e886fe3ba9f897789a32792d1908d7",
   "preview_repository": "slawrensen/hwinfo-streamdeck-preview",
   "preview_url": "https://docs.slawrensen.com/hwinfo-streamdeck-preview/",
   "source_plugin_version": "1.8.0"
