@@ -71,6 +71,6 @@ gh_edit_view_mode: tree
 footer_content: >-
   MIT licensed. No ads, no telemetry. Not affiliated with REALiX/HWiNFO or
   Elgato. &copy; Stephen Lawrensen.
-docs_source_sha: 843d67a032881664c1780bce014fb1ed30db27cc
-docs_preview_previous_sha: 284aa02bd5e886fe3ba9f897789a32792d1908d7
-docs_build_id: docs-843d67a03288
+docs_source_sha: fbfff8f37f657ca3a0784667c4a7e9fdb0f1db3e
+docs_preview_previous_sha: 20de470e8e12a884be1526bae2486cdd60bcca7f
+docs_build_id: docs-fbfff8f37f65
